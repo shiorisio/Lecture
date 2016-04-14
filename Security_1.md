@@ -44,4 +44,4 @@ WinやAndroidは格納領域がまとまっているが，MacやiOSは格納領�
 - シンプルに（ Keep It Simple ）
 - 多様性による防御（ Diversity of Defense ）: 違うベンダーからの製品を混在させることで，色んなウィルスに対応することができる．  
 - フェイルセキュア（ Fail Secure ）: システムに障害が発生した場合に安全な状態に維持．
-- 隠蔽によるセキュリティ（ Security Through Obscurity ）: 攻撃することを困難にする．知らないことによって，攻撃させない．
+- 隠蔽によるセキュリティ（ Security Through Obscurity ）: 攻撃することを困難にする．知らないことによって，攻撃させない．  
