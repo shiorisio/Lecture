@@ -38,8 +38,7 @@ Q: 情報リスクの評価とは？
 - 多重防御の原則: 可用性と機密性のバランス．どの程度セキュリティを強くするか．  
   - 単一障害点（ Single point of failure ）の排除: １つのセキュリティが破られると乗っ取られる．（e.g. CNSアカウントパスワード）  
 - 最小特権（ Least Privilege ）: 必要な場合のみ管理者権限を与える．Privilege: 権限  
-- 分割化（ Compartmentalize ）: アプリごとに格納領域が分かれていると，アクセス権が閉じているので，セキュリティが良い．  
-WinやAndroidは格納領域がまとまっているが，MacやiOSは格納領域が分割化されている．  
+- 分割化（ Compartmentalize ）: アプリごとに格納領域が分かれていると，アクセス権が閉じているので，セキュリティが良い．WinやAndroidは格納領域がまとまっているが，MacやiOSは格納領域が分割化されている．  
 - 最弱点強化（ Secure the Weakest Link ）
 - シンプルに（ Keep It Simple ）
 - 多様性による防御（ Diversity of Defense ）: 違うベンダーからの製品を混在させることで，色んなウィルスに対応することができる．  
