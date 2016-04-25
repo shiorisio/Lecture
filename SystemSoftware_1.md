@@ -30,3 +30,4 @@ Q: Checksumをどの程度中間で行っているか？
 
 In-class discussion: 日本語でもOK.
 After-class discussion:
+[shiori] I'm afraid if I was misunderstanding. The last class paper is shown that one of the examples to utilize End-to-End arguments is Careful File Transfer, isn't it? I do not have much experience with reading a paper presented about a new design principle, so I complicated about how to utilize the new design principle. [shiori]
