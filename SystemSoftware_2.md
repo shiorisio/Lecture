@@ -17,7 +17,6 @@ negative message: copy of positive message
  Sending some message needs to use same virtual time like GVT. If use LVT not GVT, some mail are delaying.
 [shiori]
 
-
 1. Metadata
 Presenter: iomz
 Lead summarizer: Shiori Hikichi
