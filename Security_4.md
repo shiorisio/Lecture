@@ -5,7 +5,7 @@
 - Exploit: セキュリティ侵害の目的で脆弱性を用いること．  
 
 - Full Disclosure  
-- 0-day: 未知の脆弱性  
+- 0-day: 未知の脆弱性，修正にも攻撃にも使われてないもの．  
 - CVE (Common Vulnerabilities and Exposure): 脆弱性の標準化  
 - CWE (Common Weakness Enumeration): 攻撃の種類  
 
@@ -19,3 +19,6 @@ Q: ヒープは？ 一時的にではなくずっと（e.g. 本棚）
   White list: 良いもの
   Escaping: 文字列処理  
   プロキシでの中継処理
+
+脆弱性とは？  
+- システム上: BoF，SQLインジェクション，XSS  
